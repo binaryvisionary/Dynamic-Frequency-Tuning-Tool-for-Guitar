@@ -1,3 +1,3 @@
 # Dynamic-Frequency-Tuning-Tool-for-Guitar
 
-![](https://user-images.githubusercontent.com/1709072/30374834-e23d0bc2-98b8-11e7-91ae-8ac37bfd24b2.png)
+![Screenshot from 2025-05-14 18-50-11](https://github.com/user-attachments/assets/81451804-00ea-4c8f-b9a5-722071f53b1a)
